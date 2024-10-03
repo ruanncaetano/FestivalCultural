@@ -1,3 +1,4 @@
+# Projeto colaborativo 
 # FestivalCultural
 
 #Como usar o GitHub na sua máquina local, políticas de contribuição para o projeto, utilizacao do php para o formulario de inscrição e componentes de acessibilidade que o site apresenta
